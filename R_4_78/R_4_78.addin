@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\R_4_78.dll"</Assembly>
+		<AddInId>044B48F5-F381-4A1F-99D7-6E7A1EC8F3AD</AddInId>
+		<FullClassName>R_4_78.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Создание отверстий для воздуховодов и труб</Text>
+	</AddIn>
+</RevitAddIns>
